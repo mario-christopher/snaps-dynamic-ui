@@ -4,10 +4,10 @@
   "proposedName": "American Airlines Snap",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+    "url": "https://github.com/mario-christopher/snaps-dynamic-ui/tree/main/packages/snap"
   },
   "source": {
-    "shasum": "WNVzSnuVVpMZhB5YchNy8VGLJCmFQUtS+CDR3WGe8ko=",
+    "shasum": "UI95EZJMZlwxl2GyKn2+IaOBQcigr2JzXZ8bdso2sPg=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",

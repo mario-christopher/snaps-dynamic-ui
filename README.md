@@ -1,7 +1,6 @@
-# @metamask/template-snap-monorepo
+# MetaMask Snaps - Dynamic UI and Signature Insights
 
-This repository demonstrates how to develop a snap with TypeScript. For detailed
-instructions, see [the MetaMask documentation](https://docs.metamask.io/guide/snaps.html#serving-a-snap-to-your-local-environment).
+This repository demonstrates how to develop a snap which has a dynamic UI.
 
 MetaMask Snaps is a system that allows anyone to safely expand the capabilities
 of MetaMask. A _snap_ is a program that we run in an isolated environment that
@@ -14,13 +13,16 @@ a canary distribution for developers that provides access to upcoming features.
 
 ## Getting Started
 
-Clone the template-snap repository [using this template](https://github.com/MetaMask/template-snap-monorepo/generate)
-and set up the development environment:
+- Clone the repository and set up the development environment:
 
 ```shell
 yarn install && yarn start
 ```
+- Install the Snap by clicking on the "Connect" button on the Landing page (http://localhost:8000)
 
+- Go to the Home Page of installed Snap. (MetaMask wallet -> Menu > Snaps -> "Installed Snap")
+
+Play with the Dynamic UI.
 ## Cloning
 
 This repository contains GitHub Actions that you may find useful, see
