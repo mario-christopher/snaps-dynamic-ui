@@ -7,7 +7,7 @@
     "url": "https://github.com/mario-christopher/snaps-dynamic-ui/tree/main/packages/snap"
   },
   "source": {
-    "shasum": "UI95EZJMZlwxl2GyKn2+IaOBQcigr2JzXZ8bdso2sPg=",
+    "shasum": "EL5+RMgc3aCYhW+bH08p4pTGm6k+aXybHsfZtpiptqE=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
@@ -26,7 +26,8 @@
     "snap_manageState": {},
     "endowment:signature-insight": {},
     "endowment:page-home": {},
-    "endowment:lifecycle-hooks": {}
+    "endowment:lifecycle-hooks": {},
+    "endowment:ethereum-provider": {}
   },
   "manifestVersion": "0.1"
 }
